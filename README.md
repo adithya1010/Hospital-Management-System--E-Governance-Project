@@ -4,5 +4,8 @@ This repo contains the code and files for the Hospital Management System that me
 
 # Collaborators
 
--[Harish](https://github.com/Harish1031)
--[Dileep](https://github.com/imdhilipkumar)
+* [Harish](https://github.com/Harish1031)
+* [Dileep](https://github.com/imdhilipkumar)
+
+
+
